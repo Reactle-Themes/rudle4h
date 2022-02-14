@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'Rudle'
+export const GAME_TITLE = 'Rudle4h'
 
 export const WIN_MESSAGES = ['Прекрасная работа!', 'Потрясающий', 'Отличная работа!']
 export const GAME_COPIED_MESSAGE = 'Игра скопирована в буфер обмена'
